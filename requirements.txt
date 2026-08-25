@@ -1,0 +1,5 @@
+pandas>=2.0
+requests>=2.31
+tenacity>=8.2
+pyarrow>=14.0
+rapidfuzz>=3.0
